@@ -17,7 +17,7 @@
 **[SafeBuddy — 防身警報裝置與求助聯動系統](https://github.com/MengRong8/safebuddy)**　`ESP32・Flutter・Node.js`　🥉 計算機網路應用創意競賽 銅牌獎
 ESP32 警報按鈕經藍牙／Wi-Fi 連動 App，自動以簡訊傳送求助位置；並以 DBSCAN 分析約 9 萬筆交通事故資料，產生危險區域熱區。
 
-**[Hermes Agent 可驗證技能](https://github.com/Netdb-NCKU/final-project-MengRong8)**　`AIASE 2026`
+**[Hermes Agent 可驗證技能](https://github.com/MengRong8/hermes-agent-skills)**　`AIASE 2026`
 為 Hermes Agent 設計四項可驗證技能：Text-to-SQL、程式撰寫與除錯配對、開放式等價性檢查。
 
 **[gem5 + NVMain 三層快取模擬](https://github.com/MengRong8/gem5_nvmain_HW)**　`計算機組織`
